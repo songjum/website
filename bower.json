@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "homepage": "https://github.com/songjum/website",
+  "authors": [
+    "songjum <410596154@qq.com>"
+  ],
+  "description": "node+ express websit",
+  "main": "app.sj",
+  "keywords": [
+    "songjum"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

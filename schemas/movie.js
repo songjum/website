@@ -39,7 +39,7 @@ MovieSchema.statics = {
     },
     findById: function(id, cb) {
         return this
-            .findone({
+            .findOne({
                 _id: id
             })
             .exec(cb)

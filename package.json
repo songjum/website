@@ -1,0 +1,28 @@
+{
+  "name": "website",
+  "version": "0.0.1",
+  "description": "node+express website",
+  "main": "app.js",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.8",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songjum/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songjum/website/issues"
+  },
+  "homepage": "https://github.com/songjum/website#readme"
+}
